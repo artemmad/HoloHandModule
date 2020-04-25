@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXOc923OYTM0TeEd5d+m5gPeWJUEpFsJITjofgxCug1PvgqH0RmeLVWDQIugWcm1kanYmAmU0JzNlFzc9Y3DJw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GitHub\\HoloHandModule\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\DotNetAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\msbuildforunity\\0.8.3\\msbuildforunity.0.8.3.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
